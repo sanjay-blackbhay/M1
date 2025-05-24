@@ -89,8 +89,14 @@ int main() {
 ```
 
 # OUTPUT:
+Value is positive :
 
-![img2](https://github.com/user-attachments/assets/60c1dd64-af46-4c26-8fc8-dfa90d82ff2a)
+![img2](https://github.com/user-attachments/assets/f9e68e3b-2605-4157-ba60-937deeb309a7)
+
+Value is not positive:
+
+![img 2-1](https://github.com/user-attachments/assets/b248feaa-b3c8-49b9-bed1-e9b6b990da1c)
+
 
 
 
@@ -202,10 +208,13 @@ int main() {
 
 ## OUTPUT:
 
+Value not equals to 1:
 
-![img 4-2](https://github.com/user-attachments/assets/8ad003c8-d7ba-4a95-876c-2776ce9e94df)
+![img 4-1](https://github.com/user-attachments/assets/8834211a-cc2b-4e19-953a-b29fad6d15b8)
 
+Value equals to 1:
 
+![img 4-2](https://github.com/user-attachments/assets/c52081e9-a139-4ef2-a94c-9b3ee239964e)
 
 
 
